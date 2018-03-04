@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Paper
-description: my papers
-keywords: Xu Ma, 马旭
+description: Lab papers
+keywords: Paper, Yuyang Wang
 comments: true
 menu: Paper
 permalink: /paper/
@@ -11,14 +11,14 @@ permalink: /paper/
 
 
 <p class="repo-list-description">
-	If any of the following papers can help your learning, I hope you can cite it, thanks.
+	These are the articles in our CS lab. If any of the following papers can help your learning, I hope you can cite it, thanks.
 </p>
 
---  Xu Ma
+--  Yuyang Wang
 
 
 
-## My papers
+## Popular papers
 
 
 <ol class="repo-list">

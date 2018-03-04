@@ -4,10 +4,10 @@
 baseurl:
 url: 
 date_format: "ordinal"
-title: Xu Ma personal blog
+title: 王宇阳的个人博客
 subtitle: "明朗坦荡 纵情豁达"
-description: "Xu Ma personal blog"
-keywords: 马旭, Xu Ma, 13952522076
+description: "王宇阳的个人博客"
+keywords: 王宇阳, Yuyang Wang, 15151881396
 timezone: China/Nanjing
 encoding: "utf-8"
 side_bar_repo_limit: 3
@@ -15,12 +15,12 @@ side_bar_repo_limit: 3
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Xu Ma
+author: Yuyang Wang
 organization: NJFU
 organization_url: 
-github_username: 13952522076
+github_username: 99438154
 location: Nanjing, China
-email: maxuMelody@foxmail.com
+email: 99438154@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -77,7 +77,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: 13952522076/13952522076.github.io
+repository: 99438154/99438154.github.io
 
 # ---------------- #
 #      Comments    #
